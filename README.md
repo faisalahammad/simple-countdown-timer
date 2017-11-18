@@ -4,7 +4,7 @@ This is simple &amp; lightweight countdown timer without additional JS/CSS files
 ---
 
 ## DEMO
-![Countdown](http://www.giphy.com/gifs/l2QDMf2RiAbEUsTfy) 
+![Countdown](https://media.giphy.com/media/l2QDMf2RiAbEUsTfy/giphy.gif) 
 
 Copy below html code and paste where you would like to put countdown timer.
 ```html
