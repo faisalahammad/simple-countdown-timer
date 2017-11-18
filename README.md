@@ -45,5 +45,7 @@ var x = setInterval(function() {
 }, 1000);
 ```
 
-<strong>N.B:</strong> Customize `document.getElementById("demo").innerHTML = days + "d " + hours + "h "
-  + minutes + "m " + seconds + "s ";`  this line to add or remove property. Enjoy!!!
+<strong>N.B:</strong> Customize this line to add or remove property. Enjoy!!!
+```js
+document.getElementById("demo").innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
+``` 
